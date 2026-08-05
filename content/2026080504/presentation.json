@@ -1,0 +1,16 @@
+{
+  "suggestionLimit": 16,
+  "exampleLimit": 3,
+  "historyLimit": 80,
+  "searchDebounceMilliseconds": 35,
+  "useASCIICapableKeyboard": true,
+  "showEnglishDefinitions": true,
+  "showWordForms": true,
+  "sectionOrder": ["translation", "forms", "examples", "definition"],
+  "accentHex": "#2867A6",
+  "searchFontSize": 20,
+  "titleFontSize": 36,
+  "bodyFontSize": 19,
+  "secondaryFontSize": 17,
+  "horizontalPadding": 18
+}
